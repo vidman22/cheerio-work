@@ -1,5 +1,6 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
+const fs = require('fs');
 
 
 async function asyncFunction(){
@@ -36,9 +37,11 @@ async function asyncFunction(){
         return provider;
     })
     const resolver = await Promise.all(finalArray);
-
-    console.log("finalArray", JSON.stringify({resolver}));
-
+    const jsonResolved = JSON.stringify({resolver});
+    // console.log("json", jsonResolved);
+    fs.writeFile('providers.json', jsonResolved, (err)=>{
+        console.error("oh, no!", err);
+    })
 };
 
 asyncFunction();
