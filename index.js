@@ -13,74 +13,36 @@ async function asyncFunction(){
     }).get();
     urlElems.shift();
     // console.log("elems", urlElems);
-    let finalArray = urlElems.map(async(url)=>{
-        const res = await axios.get(url);
+    let index = 0;
+    var wrapped = urlElems.map(function(url, index){
+        return {index, url};
+    })
+    let finalArray = wrapped.map(async(url)=>{
+        const res = await axios.get(url.url);
         const $ = cheerio.load(res.data);
         const name = $('h3', '.elementor-widget-heading').text();
-            // console.log('name', name);
+            
         const bio = $('p','.elementor-widget-theme-post-content').text();
-            // console.log("text", bio);
 
         const image = $('img', '.elementor-widget-theme-post-featured-image').attr('src');
-            // console.log('name', image);
-        
+        // console.log(index);
+        index++;
         const provider = {
+                index: url.index,
                 name,
                 bio,
                 image,
         };
         return provider;
     })
-    const resolveMoFo = await Promise.all(finalArray);
+    const resolver = await Promise.all(finalArray);
 
-    console.log("finalArray", resolveMoFo.length);
+    console.log("finalArray", JSON.stringify({resolver}));
 
 };
 
 asyncFunction();
-// console.log(asyncFunction);
 
-// console.log(asyncFunction);
-
-// .then((urlElems) => {
-//     const providers = [];
-//     console.log("elms", urlElems);
-//     for (let i = 0; i < urlElems.length; i++){
-//         axios.get(urlElems[i]).then((res) => {
-//             // console.log("data time", res.data);
-//             const $ = cheerio.load(res.data);
-//             const name = $('h3', '.elementor-widget-heading').text();
-//             // console.log('name', name);
-//             const bio = $('p','.elementor-widget-theme-post-content').text();
-//             // console.log("text", bio);
-
-//             const image = $('img', '.elementor-widget-theme-post-featured-image').attr('src');
-//             // console.log('name', image);
-
-//             const provider = {
-//                 name,
-//                 bio,
-//                 image,
-//             };
-//             // providers.push(provider);
-//             // console.log("provider", provider);
-//             return provider
-//         }).then((provider)=>{
-//             providers.push(provider);
-//         })
-//     }
-//     console.log("providers length", providers.length);
-//     return providers;
-// }).then((providers)=>{
-//     // console.log("providers", providers);
-// })
-        // 
-        //     axios.get(urlElems[i]).then((res) =>{
-        //         const $ = cherio.load(res.data);
-    
-        //         const 
-        //     })
-        // }
 // elementor-element 
 // elementor-element-1af55ec elementor-widget 
 // elementor-widget-theme-post-featured-image 
