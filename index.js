@@ -1,5 +1,7 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
+const PCPs = require('./PCPs');
+
 const fs = require('fs');
 
 
@@ -13,7 +15,8 @@ async function asyncFunction(){
         return $(el).attr('href');      
     }).get();
     urlElems.shift();
-    // console.log("elems", urlElems);
+
+
     let index = 0;
     var wrapped = urlElems.map(function(url, index){
         return {index, url};
@@ -23,22 +26,36 @@ async function asyncFunction(){
         const $ = cheerio.load(res.data);
         const name = $('h3', '.elementor-widget-heading').text();
             
-        const bio = $('p','.elementor-widget-theme-post-content').text();
+
+        const bio = $('p','.elementor-widget-container').map((i, el) =>{
+            return $(el).text();
+        }).get();
+        console.log("bio", bio.pop());
+
+        let gender, myChartID;
+        for ( let i = 0; i < PCPs.length; i++){
+            if (PCPs[i].src === url.url){
+                gender = PCPs[i].gender;
+                myChartID = PCPs[i].myChartID;
+            }
+        }
 
         const image = $('img', '.elementor-widget-theme-post-featured-image').attr('src');
-        // console.log(index);
+
         index++;
         const provider = {
                 index: url.index,
                 name,
                 bio,
                 image,
+                gender,
+                myChartID
         };
         return provider;
     })
     const resolver = await Promise.all(finalArray);
     const jsonResolved = JSON.stringify({resolver});
-    // console.log("json", jsonResolved);
+    
     fs.writeFile('providers.json', jsonResolved, (err)=>{
         console.error("oh, no!", err);
     })
