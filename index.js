@@ -30,13 +30,14 @@ async function asyncFunction(){
         const bio = $('p','.elementor-widget-container').map((i, el) =>{
             return $(el).text();
         }).get();
-        console.log("bio", bio.pop());
+        bio.pop();
+  
 
-        let gender, myChartID;
+        let gender, providerID;
         for ( let i = 0; i < PCPs.length; i++){
             if (PCPs[i].src === url.url){
                 gender = PCPs[i].gender;
-                myChartID = PCPs[i].myChartID;
+                providerID = PCPs[i].myChartID;
             }
         }
 
@@ -49,15 +50,15 @@ async function asyncFunction(){
                 bio,
                 image,
                 gender,
-                myChartID
+                providerID
         };
         return provider;
     })
     const resolver = await Promise.all(finalArray);
     const jsonResolved = JSON.stringify({resolver});
     
-    fs.writeFile('providers.json', jsonResolved, (err)=>{
-        console.error("oh, no!", err);
+    fs.writeFile('providers.json', jsonResolved, ()=>{
+        console.log("completed");
     })
 };
 

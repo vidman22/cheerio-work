@@ -14,7 +14,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider9.jpg",
             "gender": "female",
-            "myChartID": "08899"
+            "providerID": "08899"
         },
         {
             "index": 1,
@@ -27,7 +27,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider3.jpg",
             "gender": "male",
-            "myChartID": "82085"
+            "providerID": "82085"
         },
         {
             "index": 2,
@@ -42,7 +42,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Switzer500.jpg",
             "gender": "female",
-            "myChartID": "14436"
+            "providerID": "14436"
         },
         {
             "index": 3,
@@ -55,7 +55,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider4.jpg",
             "gender": "female",
-            "myChartID": "84615"
+            "providerID": "84615"
         },
         {
             "index": 4,
@@ -72,7 +72,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider2.jpg",
             "gender": "male",
-            "myChartID": "06405"
+            "providerID": "06405"
         },
         {
             "index": 5,
@@ -87,7 +87,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Ilan-Kuperman-Final-500-by-500.jpg",
             "gender": "male",
-            "myChartID": "16808"
+            "providerID": "16808"
         },
         {
             "index": 6,
@@ -101,7 +101,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/fp_milestone-create-1384638-1.jpg",
             "gender": "female",
-            "myChartID": "40112"
+            "providerID": "40112"
         },
         {
             "index": 7,
@@ -115,7 +115,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/ChristyanneMaxsonPhoto.jpg",
             "gender": "female",
-            "myChartID": "98016"
+            "providerID": "98016"
         },
         {
             "index": 8,
@@ -126,7 +126,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/JessicaSarderPhoto.jpg",
             "gender": "female",
-            "myChartID": "97632"
+            "providerID": "97632"
         },
         {
             "index": 9,
@@ -143,7 +143,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Dr.-Buchner-Main.jpg",
             "gender": "male",
-            "myChartID": "60830"
+            "providerID": "60830"
         },
         {
             "index": 10,
@@ -156,7 +156,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/JulieHoffmanPhoto.jpg",
             "gender": "female",
-            "myChartID": "267633"
+            "providerID": "267633"
         },
         {
             "index": 11,
@@ -167,7 +167,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/dr-3-perlman-clinic.jpg",
             "gender": "male",
-            "myChartID": "05073"
+            "providerID": "05073"
         },
         {
             "index": 12,
@@ -179,7 +179,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Sarah-Pierce.jpg",
             "gender": "female",
-            "myChartID": "35697"
+            "providerID": "35697"
         },
         {
             "index": 13,
@@ -196,7 +196,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Susan-Taylor-MD-Main-Jessica.jpg",
             "gender": "female",
-            "myChartID": "257284"
+            "providerID": "257284"
         },
         {
             "index": 14,
@@ -211,7 +211,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Canelo500x500-1-1.jpg",
             "gender": "male",
-            "myChartID": "65521"
+            "providerID": "65521"
         },
         {
             "index": 15,
@@ -226,7 +226,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/annastern-jessica.jpg",
             "gender": "female",
-            "myChartID": "51404"
+            "providerID": "51404"
         },
         {
             "index": 16,
@@ -238,7 +238,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/StephanieKleinPHOTO-1.jpg",
             "gender": "female",
-            "myChartID": "257289"
+            "providerID": "257289"
         },
         {
             "index": 17,
@@ -250,7 +250,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Yuliya-PA-C-1.jpg",
             "gender": "female",
-            "myChartID": "263890"
+            "providerID": "263890"
         },
         {
             "index": 18,
@@ -262,7 +262,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/BrennaMemole.jpg",
             "gender": "female",
-            "myChartID": "269350"
+            "providerID": "269350"
         },
         {
             "index": 19,
@@ -276,7 +276,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/AlonsoChan.jpg",
             "gender": "male",
-            "myChartID": "84690"
+            "providerID": "84690"
         },
         {
             "index": 20,
@@ -289,7 +289,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/KellySnowden.jpg",
             "gender": "female",
-            "myChartID": "270097"
+            "providerID": "270097"
         },
         {
             "index": 21,
@@ -301,7 +301,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/CarlyBabisMain.jpg",
             "gender": "female",
-            "myChartID": "270075"
+            "providerID": "270075"
         },
         {
             "index": 22,
@@ -313,7 +313,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/DrParrott.jpg",
             "gender": "female",
-            "myChartID": "270103"
+            "providerID": "270103"
         },
         {
             "index": 23,
@@ -334,7 +334,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/ErinnCase500x500.jpg",
             "gender": "female",
-            "myChartID": "270607"
+            "providerID": "270607"
         },
         {
             "index": 25,
@@ -349,7 +349,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/BrookeMyrberg500x500.jpg",
             "gender": "female",
-            "myChartID": "271056"
+            "providerID": "271056"
         },
         {
             "index": 26,
@@ -361,7 +361,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PuneetBhalrhu-1024x1024.jpg",
             "gender": "female",
-            "myChartID": "273037"
+            "providerID": "273037"
         },
         {
             "index": 27,
@@ -374,7 +374,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Pippa500by500-1024x1024.jpg",
             "gender": "female",
-            "myChartID": "272253"
+            "providerID": "272253"
         },
         {
             "index": 28,
@@ -389,7 +389,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Kelsey500x500-1024x1024.jpg",
             "gender": "female",
-            "myChartID": "267386"
+            "providerID": "267386"
         },
         {
             "index": 29,
@@ -402,7 +402,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/RhodalineTootell500x500MAIN.jpg",
             "gender": "female",
-            "myChartID": "272234"
+            "providerID": "272234"
         },
         {
             "index": 30,
@@ -420,7 +420,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/KennethOrtizMD.jpg",
             "gender": "male",
-            "myChartID": "270059"
+            "providerID": "270059"
         },
         {
             "index": 31,
@@ -435,7 +435,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Dr.Macy500x500.jpg",
             "gender": "female",
-            "myChartID": "82466"
+            "providerID": "82466"
         },
         {
             "index": 32,
@@ -446,7 +446,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/09/JenniferP500x500.jpg",
             "gender": "female",
-            "myChartID": "34455"
+            "providerID": "34455"
         },
         {
             "index": 33,
@@ -457,7 +457,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/09/Chris500x500.jpg",
             "gender": "male",
-            "myChartID": "263353"
+            "providerID": "263353"
         },
         {
             "index": 34,
@@ -480,7 +480,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/10/DrBista500x500.jpg",
             "gender": "female",
-            "myChartID": "39702"
+            "providerID": "39702"
         },
         {
             "index": 35,
@@ -491,7 +491,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/10/Adam500x500.jpg",
             "gender": "male",
-            "myChartID": "278020"
+            "providerID": "278020"
         },
         {
             "index": 36,
@@ -506,7 +506,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/11/Natalia500x500.jpg",
             "gender": "female",
-            "myChartID": "278112"
+            "providerID": "278112"
         },
         {
             "index": 37,
@@ -521,7 +521,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/11/DrSoliman500x500.jpg",
             "gender": "female",
-            "myChartID": "277986"
+            "providerID": "277986"
         },
         {
             "index": 38,
@@ -532,7 +532,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/NicholasKahl500x500.jpg",
             "gender": "male",
-            "myChartID": "98164"
+            "providerID": "98164"
         },
         {
             "index": 39,
@@ -544,7 +544,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/AlexandraChatfield500x500.jpg",
             "gender": "female",
-            "myChartID": "278907"
+            "providerID": "278907"
         },
         {
             "index": 40,
@@ -555,7 +555,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/RobertBrunst500x500.jpg",
             "gender": "male",
-            "myChartID": "08670"
+            "providerID": "08670"
         },
         {
             "index": 41,
@@ -566,7 +566,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/GourabDas500x500.jpg",
             "gender": "male",
-            "myChartID": "262694"
+            "providerID": "262694"
         },
         {
             "index": 42,
@@ -577,7 +577,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2020/01/Marquis500x500.jpeg",
             "gender": "male",
-            "myChartID": "279810"
+            "providerID": "279810"
         },
         {
             "index": 43,
@@ -588,7 +588,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2020/01/Raheem500x500.jpeg",
             "gender": "male",
-            "myChartID": "279880"
+            "providerID": "279880"
         },
         {
             "index": 44,
@@ -600,7 +600,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2020/02/NicoleMichael500x500.jpg",
             "gender": "female",
-            "myChartID": "280127"
+            "providerID": "280127"
         },
         {
             "index": 45,
@@ -612,7 +612,7 @@
             ],
             "image": "https://perlmanclinic.com/wp-content/uploads/2020/02/KristenMott500x500.jpeg",
             "gender": "female",
-            "myChartID": "282508"
+            "providerID": "282508"
         },
         {
             "index": 46,
@@ -621,7 +621,9 @@
                 "Bio Coming Soon",
                 "© Copyright 2020, Perlman Clinic, All Rights Reserved."
             ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2020/03/NatalieWaters-1024x1024.jpg"
+            "image": "https://perlmanclinic.com/wp-content/uploads/2020/03/NatalieWaters-1024x1024.jpg",
+            "gender": "female",
+            "providerID": "283382"
         },
         {
             "index": 47,
@@ -630,7 +632,18 @@
                 "Bio coming soon",
                 "© Copyright 2020, Perlman Clinic, All Rights Reserved."
             ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2020/04/Pitt500x500.jpg"
+            "image": "https://perlmanclinic.com/wp-content/uploads/2020/04/Pitt500x500.jpg",
+            "gender": "male",
+            "providerID": "01975"
+        },
+        {
+            "index": 48,
+            "name": "Daisy Damasco-Gutierrez, M.D.",
+            "bio": [
+                "Bio Coming Soon",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2020/05/Dr.Gutierrez500x500.jpeg"
         }
     ]
 }
