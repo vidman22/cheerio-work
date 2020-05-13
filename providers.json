@@ -1,36 +1,6 @@
 {
-    "resolver": [
-        {
-            "index": 0,
-            "name": "Monica Perlman, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Those are the terms that define Monica Perlman, M.D. In fact, that is why she formed Perlman Clinic in 2005. Dr. Perlman wanted to have the time necessary to care for her patients and to advocate for them with other medical providers. She is also deeply committed to preventive care and healthy lifestyles. And, remarkably, she practices what she preaches. When you meet Dr. Perlman, you will immediately be impressed by her energy and caring demeanor.",
-                "Dr. Perlman was born in Mexico City, Mexico and moved to the United States at the age of 16. She is fluent in Spanish and provides care for numerous patients who come from Mexico to visit her. Dr. Perlman attended Medical School at the University of California, Irvine. She completed her Internship at Scripps Clinic and Research Foundation and her Residency at the University of California, San Diego. Dr. Perlman has lifetime Board Certification in Preventive Medicine and Public Health. She also has a Masters Degree in Public Health with an emphasis in Occupational Medicine. During her career at Scripps Clinic, she also served as Director of Primary Care and as the head of Occupational Medicine and Employee Health. Dr. Perlman is a Voluntary Assistant Professor in the Department of Medicine at the University of California, San Diego.",
-                "Years In Practice: 24 Years",
-                "Specialties: Internal Medicine and Preventive Medicine",
-                "She cares for patients at the Perlman Clinic locations in Downtown La Jolla, Carlsbad, Downtown San Diego, Chula Vista, La Jolla, Clairemont, Kensington & Hillcrest.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider9.jpg",
-            "gender": "female",
-            "providerID": "08899"
-        },
-        {
-            "index": 1,
-            "name": "Stephen Caso PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Stephen Caso, PA-C joined Perlman Clinic in 2011. He studied Kinesiology at Temple University in Philadelphia and graduated with a Master of Medical Science – Physician Assistant Studies from Salus University in 2010. Stephen enjoys treating patients and will always be your “advocate”. Approachable and easy mannered, Stephen takes the time, and makes the effort, to hear his patients.",
-                "Stephen primarily treats patients at the La Jolla clinic",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider3.jpg",
-            "gender": "male",
-            "providerID": "82085"
-        },
-        {
-            "index": 2,
+    "finalObj": {
+        "14436": {
             "name": "Jamie Switzer DO",
             "bio": [
                 "“Doctor, Friend, Advocate”",
@@ -44,38 +14,17 @@
             "gender": "female",
             "providerID": "14436"
         },
-        {
-            "index": 3,
-            "name": "Emily Ence PA-C",
+        "15731": {
+            "name": "Daisy Damasco-Gutierrez, M.D.",
             "bio": [
-                "“PA, Friend, Advocate”",
-                "Emily Ence, PA-C trained at Baylor College of Medicine in Houston, Texas where she graduated at the top of her class in 2011. She worked in women’s health in Houston prior to moving to San Diego. She likes to focus on prevention and lifestyle changes. When not seeing patients she enjoys attempting to surf and taking her baby to the San Diego zoo. Emily shares her love for medicine and patient care with her husband, who is an emergency room physician. Emily is outgoing and welcoming and patients enjoy spending time with her. She is a highly valued member of the Perlman Clinic team.",
-                "Emily treats patients at the Hillcrest clinic.",
+                "Bio Coming Soon",
                 "© Copyright 2020, Perlman Clinic, All Rights Reserved."
             ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider4.jpg",
+            "image": "https://perlmanclinic.com/wp-content/uploads/2020/05/Dr.Gutierrez500x500.jpeg",
             "gender": "female",
-            "providerID": "84615"
+            "providerID": "15731"
         },
-        {
-            "index": 4,
-            "name": "Edward Brantz, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Edward Brantz, M.D. has been called “old fashioned” because he takes his time listening and treats the whole patient. Dr. Brantz is a practitioner with caring values and a sincere approach to helping the patient achieve optimal health. His specialty is Family Medicine. Patients benefit from his many years of experience, expertise and knowledge from assisting in surgeries. Knowing his patients helps Dr. Brantz be their health care “advocate”. When you meet Dr. Brantz, you’ll quickly learn why he is every patient’s friend.",
-                "With a life long passion for medicine, Dr. Brantz enjoys keeping up with medical innovations and literature and regularly attends continuing medical education seminars, classes, conferences and forums. As a native San Diegan, Dr. Brantz spends his free time bicycling, reading and attending family gatherings.",
-                "Dr. Brantz is a perfect fit with Perlman Clinic. As a valued new addition to our team, Edward Brantz, M.D. has a record of patient care that is the model for all Perlman Clinic health care providers.",
-                "Medical School: Autonomous University of Guadalajara (Mexico)Internship: Hahnemann UniversityFamily Practice Residency: Hahnemann University",
-                "Years in Practice: Over 30 years",
-                "Dr. Brantz primarily treats patients at the Clairemont primary and urgent care clinic",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider2.jpg",
-            "gender": "male",
-            "providerID": "06405"
-        },
-        {
-            "index": 5,
+        "16808": {
             "name": "Ilan Kuperman, M.D.",
             "bio": [
                 "Dr. Kuperman provides integrative medicine to the Perlman Clinic scope of services. Dr. Kuperman is committed to providing superior quality medical care. He listens closely, is compassionate, and tries to find the root causes and factors to patients’ problems. He looks forward to being an active partner with his patients in their quest for health and wellness. He has helped patients resolve a wide range of conditions by combining his knowledge of both conventional and complementary medicine.",
@@ -89,88 +38,17 @@
             "gender": "male",
             "providerID": "16808"
         },
-        {
-            "index": 6,
-            "name": "Lauren Campagna PA-C",
+        "34455": {
+            "name": "Jennifer Phan FNP-C",
             "bio": [
-                "“PA, Friend, Advocate”",
-                "Lauren Campagna, PA-C studied human biology as an undergraduate at University at Albany, which is where she developed her love of medicine as a volunteer on the campus ambulance. She received her master’s degree in physician assistant studies from Upstate Medical University in Syracuse, NY. As a practicing provider, she approaches each patient with an open ear and caring demeanor. Lauren strives to promote wellness among her patients through education, communication and empowerment.",
-                "Outside of Perlman Clinic, Lauren is actively involved in multiple medical associations at the national, state and local level. She enjoys attending regular medical seminars and conferences. In her free time, Lauren enjoys horseback riding and hiking. She hopes to one day hike all 46 high peaks in the Adirondack State Park.",
-                "Lauren primarily treats patients at the La Jolla and Downtown San Diego clinic.",
+                "Bio coming soon",
                 "© Copyright 2020, Perlman Clinic, All Rights Reserved."
             ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/fp_milestone-create-1384638-1.jpg",
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/09/JenniferP500x500.jpg",
             "gender": "female",
-            "providerID": "40112"
+            "providerID": "34455"
         },
-        {
-            "index": 7,
-            "name": "Christyanne Maxson, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Maxson is deeply committed to full service care. She specializes in adolescent care,women’s health and young families. She is very happy to join Perlman Clinic which affords her the time necessary to provide true quality care for the entire family – Preventative, Integrative Medicine, and healthy lifestyles. When you meet Dr. Maxson you will be impressed by her ease of conversation, caring, and ability to get to the root of the problem.",
-                "Dr. Maxson hails from British Columbia Canada. She graduated with her Bachelor of Science and her Doctorate of Medicine Degrees from The University of British Columbia. She interned at a small hospital in Regina Saskatchewan where there were no residents and she had the primary responsibility for patients that one would normally get as a senior resident. She went on to practice across Canada as a Locum Tenens (even for a time as a Cruise Ship Doctor), then settled down in Vancouver in Private Practice and Public Health where she worked for 10 years. She loved delivering babies, caring for the entire family, and seeing them grow up and thrive.",
-                "In her spare time, she loves Gardening, anything to do with horses, Skiing and Scuba Diving.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/ChristyanneMaxsonPhoto.jpg",
-            "gender": "female",
-            "providerID": "98016"
-        },
-        {
-            "index": 8,
-            "name": "Jessica Sarder PA-C",
-            "bio": [
-                "Bio Coming Soon",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/JessicaSarderPhoto.jpg",
-            "gender": "female",
-            "providerID": "97632"
-        },
-        {
-            "index": 9,
-            "name": "William Buchner, M.D.",
-            "bio": [
-                "Dr. William Buchner grew up in Northern Michigan on a large family run dairy farm. He was involved in leadership roles in multiple student organizations and graduated valedictorian of his high-school class.",
-                "He attended Michigan Technological University and studied Biology and Chemistry with an emphasis on education. He was the president of MTU’s Film Board and tutor at the Chemistry Learning Center. While attending college, he volunteered at the community hospital and worked as a pharmacy technician.",
-                "After graduating Summa Cum Lade, he taught high school science at Lakeview High School for 2 years. He gave presentations at in-service meetings about new philosophies in grading and evaluating students.",
-                "Dr. Buchner then attended Wayne State University’s School of Medicine in Detroit, Michigan. WSU is America’s largest single campus medical school. While studying, he participated in an extracurricular program called HuMed which focused on alternative medical practices to heal and comfort patients in ways that are not typically taught in Western Medicine.",
-                "Dr. Buchner was matched to his 1st choice Family Medicine Residency Program at UCSD in 2008. He did additional elective rotations in dermatology and HIV care. After completing residency and attaining Board Certification in Family Medicine, he worked at Sharp Rees-Stealy Medical Group for four years. During this time, he did continuing education in the fields of HIV management, dermatology and hormone replacement to help better serve the patient’s he cared for.",
-                "Dr. Buchner is an active member in the American Academy of Anti-Aging medicine. He offers his patients a comprehensive approach to chronic conditions and preventative care utilizing a full spectrum of vitamins, bio-identical hormones, supplements, and appropriate pharmaceuticals treatments. He utilizes multiple cutting edge laboratory services to evaluate hormones and advanced bio-markers in order to identify sub-optimal levels which help guide his medical recommendations.",
-                "Putting his past experiences together and desire to offer his patients a holistic, comprehensive and personalized approach to care, he teamed up with Perlman Clinic to a new standard in healthcare for patients seeking results and exceptional services.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Dr.-Buchner-Main.jpg",
-            "gender": "male",
-            "providerID": "60830"
-        },
-        {
-            "index": 10,
-            "name": "Julie Hoffman PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Julie Hoffman, PA-C is a board certified Physician Assistant. She received a Bachelor of Science in Exercise Science with a minor in Psychology from Florida State University. She then completed her Physician Assistant Studies at the Medical University of South Carolina where she graduated with honors in 2015. Prior to joining Perlman Clinic she worked as a Pediatric Physician Assistant in South Carolina for two years. She has a passion for preventative medicine, lifestyle changes, and patient education. She is currently a member of the American Academy of Physician Assistants, the San Diego Society of Physician Assistants, and the American Telemedicine Association.",
-                "Julie has participated in multiple medical mission trips and enjoys traveling as much as possible. She spends her free time hiking, exercising, and enjoys spending time outdoors.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/JulieHoffmanPhoto.jpg",
-            "gender": "female",
-            "providerID": "267633"
-        },
-        {
-            "index": 11,
-            "name": "Seymour Myers, M.D.",
-            "bio": [
-                "Dr. Seymour Myers, M.D.,completed medical school at The University of Toronto in Ontario, Canada in 1966. Since then in addition to serving as a primary care physician in his own practice for over 30 years, he has participated in multiple clinical studies and has been an active member of UC San Diego’s Academic Enrichment Health Professions Mentor Program since 1994. Dr. Myers specializes in family medicine and takes a special interest in end of life planning and hospice care. Patients and families come first to Dr. Myers. He believes it is his job to provide excellent care to his patients to make their lives more comfortable. With over 50 years experience, his easygoing manner puts patients’ and family members at ease. In his free time, Dr. Myers can be found enjoying everything that the North County has to offer with his wife and their dog. ",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/dr-3-perlman-clinic.jpg",
-            "gender": "male",
-            "providerID": "05073"
-        },
-        {
-            "index": 12,
+        "35697": {
             "name": "Sarah Pierce FNP-C",
             "bio": [
                 "“FNP, Friend, Advocate”",
@@ -181,286 +59,7 @@
             "gender": "female",
             "providerID": "35697"
         },
-        {
-            "index": 13,
-            "name": "Susan Taylor, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Taylor grew up in San Diego, and attended UCSD receiving a Bachelor’s degree in Chemistry. She was awarded her Doctor of Medicine degree from UC Irvine School of Medicine. She completed a 3-year residency program in Family Medicine at San Pedro Peninsula Hospital and is Board Certified in Family Medicine.",
-                "She spent 7 years in Diamond Bar in private practice and had 2 sons. She then moved with her family to a small city in Tennessee, Oak Ridge. There she practiced in both a community clinic setting and in private practice for 23 years, providing care in an underserved area.",
-                "Dr. Taylor is a diplomate of the American Academy of Family Medicine, and a member of the American Medical Women’s Association.",
-                "She is very happy to have returned to her home town of San Diego to be closer to her family, including her now grown sons. Perlman Clinic is a perfect fit, allowing her to provide a medical home to patients who are looking for compassionate and comprehensive care. “Everyone needs a ‘medical home’ where they can discuss any health concerns, and have a partner in staying healthy and navigating the complex world of modern medicine.”",
-                "Dr. Taylor enjoys music, nature, and raising her dachshund.",
-                "Years in practice: 30",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Susan-Taylor-MD-Main-Jessica.jpg",
-            "gender": "female",
-            "providerID": "257284"
-        },
-        {
-            "index": 14,
-            "name": "Nicholas Canelo, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Canelo is a dedicated Primary Care Physician with a comprehensive and holistic approach to care. He is known by his colleagues and patients for providing outpatient care at a high level of detail and complexity, as well as for his curiosity, positivity, and enthusiasm. He believes in the healing potential of lifestyle interventions and evidence-based alternative medicine.",
-                "Dr. Canelo was born and raised in Montclair, New Jersey. He is a graduate of Brown University where he completed the Program in Liberal Medical Education (PLME), a highly competitive eight-year track that combines undergraduate education and medical school. During his time at Brown, he majored in Anthropology and began exploring the field of Integrative Medicine.",
-                "He matched into his first choice residency program at the University of California, San Diego (UCSD) Family Medicine Residency Program. While at UCSD, he completed additional training in Integrative Medicine and received the prestigious Resident Teacher Award. Dr. Canelo earned his board certification in Family Medicine in 2018.",
-                "Outside of practicing medicine, Dr. Canelo sings and plays acoustic and electric guitar, 12-string guitar, ukulele, and piano. He enjoys skiing, running, and travel. He loves plant-based cooking and trips to the beach with his partner Elena and French Bulldog Yoda.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Canelo500x500-1-1.jpg",
-            "gender": "male",
-            "providerID": "65521"
-        },
-        {
-            "index": 15,
-            "name": "Anna Stern, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Stern is extremely compassionate and a strong advocate in ensuring patients receive the health care they need. She specializes in providing medical care and preventive services to adults 18 years and older. She recently returned to San Diego from Oregon, where she worked as Medical Director of a Health Insurance Plan, overseeing benefits provided to enrollees including making exceptions when merited as well as designing and implementing programs to improve the health of communities. Having experienced the challenges of medical care as a patient and family member of patients with rare and serious conditions, providing direct patient care for complicated patients, and as a Medical Director for a Health Plan, Dr. Stern has unique insight and skills as a patient advocate in the care she provides.",
-                "Dr. Stern earned her Doctorate of Medicine at University of California, San Diego. She completed her Internship in Internal Medicine at Santa Barbara Cottage Hospital and her Residency in Preventive Medicine at University of California, San Diego. Dr. Stern is Board Certified in Public Health and Preventive Medicine. She also has a Master’s in Public Health from San Diego State University and a Master’s of Business Administration from the Wharton School.",
-                "When not working, Dr. Stern together with her husband and young daughter, enjoy spending quality time with their extended family and enjoying all that San Diego has to offer – the beautiful beaches, arts, sports, and athletic activities.",
-                "Dr. Stern primarily treats patients at the La Jolla location.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/annastern-jessica.jpg",
-            "gender": "female",
-            "providerID": "51404"
-        },
-        {
-            "index": 16,
-            "name": "Stephanie Klein PA-C",
-            "bio": [
-                "Stephanie Klein, PA-C studied communication as an undergraduate at UC Santa Barbara and discovered her passion for medicine and healthcare while working in a mental health practice. She earned a dual Masters in Physician Assistant Studies and Public Health at Touro University of California. Stephanie says she is excited to be a part of Perlman Clinic because she appreciates the focus on personalized care and spending time with patients that is integral to the Perlman Clinic culture. Stephanie is committed to providing the best care possible.",
-                "Stephanie grew up in Wisconsin and visits her family there often. She loves living in California because of the gorgeous year-round weather. When away from work, Stephanie likes to spend time outdoors and enjoys exercising, hiking with her dogs or going to the beach.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/StephanieKleinPHOTO-1.jpg",
-            "gender": "female",
-            "providerID": "257289"
-        },
-        {
-            "index": 17,
-            "name": "Yuliya Yartseva FNP-C",
-            "bio": [
-                "“FNP, Friend, Advocate”",
-                "Yuliya Yartseva is a nationally certified Family Nurse Practitioner. She graduated Summa Cum Laude with a Master of Science in Nursing from George Washington University. Yuliya strives to build relationships with her patients through active listening and patient education. With a focus on preventive care and patient-centered medicine, she encourages patients to lead a healthy lifestyle. Yuliya is fluent in both Russian and English. She is a member of American Association of Nurse Practitioners, California Association of Nurse Practitioners and Sigma Theta Tau International Nursing Honor Society.Originally from Virginia, Yuliya enjoys exploring California with her two French Bulldogs, Lola and Morty.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Yuliya-PA-C-1.jpg",
-            "gender": "female",
-            "providerID": "263890"
-        },
-        {
-            "index": 18,
-            "name": "Brenna Memole AGNP-C",
-            "bio": [
-                "“AGNP, Friend, Advocate”",
-                "Brenna Memole has held a keen interest in health and medicine since early high school. She pursued a Bachelor’s degree in Nutritional Physiology and Metabolism at UC Berkeley and went on to work as a Nutritional Specialist on a college campus, as well as a Nutritional Instructor in a women’s rehabilitation home. Thereafter she studied at Columbia University and received a Master’s in Nursing – Adult Gerontology, graduating with honors. Brenna is personally dedicated to a very active and healthy lifestyle and enjoys engaging her patients in positive and beneficial changes to best suit their individual health needs. Her personal interests also include vegetarian cooking, running, hiking, and traveling. Brenna has visited over 20 countries and enjoys learning about other cultures and types of medicine.Brenna primarily treats patients out of the La Jolla Clinic.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/BrennaMemole.jpg",
-            "gender": "female",
-            "providerID": "269350"
-        },
-        {
-            "index": 19,
-            "name": "Alonso Chan PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Alonso Chan is a Certified Physician Assistant with extensive experience in Family Medicine and Physical Therapy. He is a graduate of the Riverside County College Physician Assistant program. His background includes Emergency Medicine, Pediatrics, Internal Medicine, Women’s Health, Orthopedics, Mental Health, and Family Practice. He is a member of the California Academy of Physician Assistants (CAPA) and the American Academy of Physician Assistants (AAPA). Alonso sees patients of all ages.",
-                "Alonso loves learning about world history, politics, and documentaries. He used to have his own band where he was the singer-songwriter for some 10 plus years, so he loves making music, playing the guitar, and attending art and music related events. He loves the outdoors, traveling, exploring, and riding around on his motorcycle.",
-                "Languages: English, Spanish.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/AlonsoChan.jpg",
-            "gender": "male",
-            "providerID": "84690"
-        },
-        {
-            "index": 20,
-            "name": "Kelly Snowden PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Kelly Snowden, PA-C studied Human Health Sciences as an undergraduate at the University at Kentucky. During her undergraduate years, she developed a passion for medicine while working as an Emergency Room technician in a Level One Trauma Center and participating in medical mission trips around the globe. She then completed her Physician Assistant Studies at Jefferson University in Philadelphia where she graduated with honors in 2018. Kelly has a passion for preventative medicine and she strives to promote wellness among her patients through education and open communication.Kelly has a very active lifestyle and enjoys traveling as much as possible. She spends her free time exercising, hiking, and spending time at the beach. Her future goals are to continue participating in medical missions as a board certified Physician Assistant.",
-                "Kelly primarily treats patients at the Downtown La Jolla Clinic.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/KellySnowden.jpg",
-            "gender": "female",
-            "providerID": "270097"
-        },
-        {
-            "index": 21,
-            "name": "Carly Babis PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Carly Babis, PA-C graduated from the University of Arizona with a Bachelor of Science in Psychology; She then went on to receive her Masters degree in Physician Assistant Studies at Arcadia University in Philadelphia, PA. Carly values trusting, long lasting relationships with her patients and playing an active role in their overall health and well being. Originally from Tucson, Arizona, Carly loves spending her free time by the ocean and exploring new parts of San Diego.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/CarlyBabisMain.jpg",
-            "gender": "female",
-            "providerID": "270075"
-        },
-        {
-            "index": 22,
-            "name": "Emilia Parrott DO",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Emilia Parrott, D.O., received her Doctor of Osteopathic Medicine from the Western University of Health Sciences in Pomona, California. She went on to complete her residency in family medicine in Tacoma, Washington where she was honored as the Chief Resident. Dr. Parrott understands that communication and interpersonal skills are critical for promoting successful physician-patient relationships. Through active listening and promoting patient-centered communication she is able to strives to provide the best possible care for patients. She takes a special interest in urgent care, women’s health, obstetrics, pediatrics, dermatological conditions, outpatient procedures, transgender medicine, HIV primary care and community health medicine. ",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/DrParrott.jpg",
-            "gender": "female",
-            "providerID": "270103"
-        },
-        {
-            "index": 23,
-            "name": "Mona Ezzat, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Ezzat is a board-certified family physician with board certification in Integrative and Holistic medicine. She completed medical school at Rush Medical College in Chicago, Illinois. After graduating medical school, she completed her internship and residency at the University of Michigan in Ann Arbor, Michigan. She has a history of working in a setting on an integrative team and with naturopathic physicians to provide holistic primary care and functional medicine.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/DrEzzat500by500.jpg"
-        },
-        {
-            "index": 24,
-            "name": "Erinn Case FNP-C",
-            "bio": [
-                "Bio Coming Soon",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/ErinnCase500x500.jpg",
-            "gender": "female",
-            "providerID": "270607"
-        },
-        {
-            "index": 25,
-            "name": "Brooke Myrberg PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Brooke Myrberg PA-C is a California-licensed and nationally board certified Physician Assistant. Brooke was raised in Emmaus, Pennsylvania. She completed her Bachelors in Science with a major in biology and minor in chemistry at Florida Southern College, where she graduated summa cum laude. During her undergraduate career she volunteered at a Medical clinic for the uninsured and served as president of the Biological National Honor Society, along with maintaining and earning membership into multiple other medical and honor societies. After graduating she went on to further her medical experience by volunteering in Lehigh Valley Hospital’s PACU and at an assisted living facility, as well as working on a medical surgical unit. She then earned her Master of Medical Science graduate degree and completed the Physician Assistant program at Nova Southeastern University in Fort Lauderdale, Florida, during which time she also went on a medical mission trip to Peru. With the desire to experience the east coast lifestyle she moved to California, where she briefly worked in family medicine locum tenens positions while residing in LA, before re-locating to San Diego to join the Perlman Clinic team!",
-                "With a drive for preventative medicine and patient education, she enjoys connecting with patients on a level that allows them to feel comfortable and motivated to take part in their own health and medical decisions.",
-                "In her free time Brooke enjoys an active lifestyle including jogging, hot yoga, HIIT, and weight lifting. She also greatly enjoys being outdoors, hiking, hanging out at the beach, traveling, and exploring all that San Diego has to offer!",
-                "Locations: Hillcrest and Kensington",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/BrookeMyrberg500x500.jpg",
-            "gender": "female",
-            "providerID": "271056"
-        },
-        {
-            "index": 26,
-            "name": "Puneet Bhalrhu, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Bhalrhu grew up in Northridge, California.  She is board certified in Family Medicine.  She went to medical school in Poland where she attended the Medical University of Lublin.  While she was in medical school, she was fortunate to take a few days here and there traveling as much of Europe as she possibly could.  After graduating medical school, she did her residency in Family Medicine at Central Michigan University.  After completion of residency, she worked as a hospitalist in a teaching hospital in Michigan, Covenant Healthcare.  As attending physician, her responsibilities included teaching medical students and residents.  Returning to California had always been in her plan, specifically living in San Diego.  She enjoys working with primary care and urgent care patients in the Hillcrest and downtown locations.  In her spare time, she enjoys golfing, watching football, cooking and wine tasting. ",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PuneetBhalrhu-1024x1024.jpg",
-            "gender": "female",
-            "providerID": "273037"
-        },
-        {
-            "index": 27,
-            "name": "Philippa Rai PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Philippa “Pippa” Rai, PA-C, is a board certified Physician Assistant. She received a Bachelor of Arts in Human Development at the University of California, San Diego. She then attended Southern California University of Health Sciences’ Physician Assistant program, where she was the Public Relations Representative of her class. Pippa completed her Master’s degree in Physician Assistant Studies and graduated with honors in 2018. She has a passion for women’s health, preventative medicine, and mental health. Pippa also has a special interest in in-office based procedures.",
-                "Pippa is currently a member of San Diego Society of Physician Assistants. In her free time she enjoys hiking, acrylic painting, and traveling as much as possible.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Pippa500by500-1024x1024.jpg",
-            "gender": "female",
-            "providerID": "272253"
-        },
-        {
-            "index": 28,
-            "name": "Kelsey Brangoccio PA-C",
-            "bio": [
-                "“PA, Friend, Advocate”",
-                "Kelsey Brangoccio graduated from Montana State University in 2015 with a Bachelor’s degree in Health and Human Performance with a focus in Exercise Science. During college she had a variety of experiences working in cardiopulmonary rehab, physical therapy, and working with elderly at an assisted living facility. She then attended Thomas Jefferson University in Philadelphia, PA where she received a Master’s degree in Physician Assistant Studies in 2017. During school she served as President of her PA program where she helped lead volunteer opportunities such as serving at a local soup kitchen.",
-                "After school she worked at a family medicine clinic in Grants Pass, Oregon. During her time there she also volunteered at the homeless shelter on the weekend to provide medical care to underserved men, women, and children. She then moved to San Diego where she worked at an internal medicine clinic. Kelsey is happy to be a part of Perlman Clinic and can’t wait to meet you and help you reach your health goals.",
-                "Kelsey focuses on preventive health and using a multimodal approach in reaching patients’ goals. She encourages patients to take control of their health and be involved in the decision making process. She emphasizes lifestyle modifications including a healthy diet, physical activity, smoking cessation, stress reduction, and emotional wellbeing.",
-                "Kelsey enjoys an active life, spending time with family and friends, and traveling. She spends her free time playing soccer, training jiu-jitsu, going to the beach and playing with her dog Stanley.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Kelsey500x500-1024x1024.jpg",
-            "gender": "female",
-            "providerID": "267386"
-        },
-        {
-            "index": 29,
-            "name": "Rhodaline Tootell, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr. Tootell joined the Perlman Clinic in 2019 after moving to California from northern Virginia. She graduated from the University of Virginia, then completed her Masters Degree in Physiology as well as her Medical Degree at the Medical College of Virginia (now the VCU School of Medicine) in 2004. She then completed her Family Medicine Residency at Christiana Care Hospital in Wilmington, Delaware. In 2007, she moved back to northern Virginia and joined a private practice in Loudoun County where she maintained a busy family practice for 11 years, often caring for entire extended families in the community. She enjoyed writing medical articles for the local newspaper during this time, and served as the Physician Practice Leader after her practice joined a large, multi-specialty group in 2014. By practicing for over 10 years in the community where she lived, she learned the value of forming strong relationships with her patients to best effect changes in their health. She has particular interests in preventive medicine, chronic medical care management, pediatrics and women’s health but enjoys all aspects of general medicine. As a new addition to the Perlman Clinic, she embraces the practice mission of spending time listening and understanding each patient’s concerns with the goal of achieving and advocating for their best health.",
-                "Dr. Tootell, her husband and four children fell in love with San Diego on a spring break trip in March 2018 and a few months later, made the leap to move to here. They are enjoying getting to know their new community and surroundings – particularly the beaches, parks, coffee shops and restaurants! Dr. Tootell enjoys the outdoors, running, cycling, cooking and spending time with her family, especially at the beach and at their various sports activities.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/RhodalineTootell500x500MAIN.jpg",
-            "gender": "female",
-            "providerID": "272234"
-        },
-        {
-            "index": 30,
-            "name": "Kenneth Ortiz, M.D.",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Dr Kenneth Ortiz grew up on the island of Oahu, Hawaii. He is a board-certified family medicine and aesthetic medicine physician in San Diego, California. Prior to joining Perlman Clinic, Inc., Dr Ortiz worked with Northwest Permanente Group in Portland, Oregon, and at a Native American clinic in East San Diego.",
-                "Dr Ortiz earned his BS in Food Science and Human Nutrition from the University of Hawaii at Manoa. Before becoming a physician, he worked as an instructor/program coordinator with the State of Hawaii Dept of Education, and a child nutritionist for the Office of Hawaii Child Nutrition Programs and the US Army in Hawaii. Following his graduation from the University of Hawaii John A. Burns School of Medicine, he completed his internship and residency with the University of Hawaii Family Medicine Residency Program, and then went on to complete his board certification in aesthetic medicine from the American Board of Aesthetic Medicine in San Diego.",
-                "Dr. Ortiz specializes in primary and urgent care, annual physical exams, men’s and women’s health, PrEP, Nexplanon® and IUD placement and removal, and a variety of in-office joint injections. He also provides Botox®, derm fillers, chemical peels, and laser rejuvenation and resurfacing.",
-                "Out of the office, Dr. Ortiz enjoys spending time with family and friends, exploring the unique communities of San Diego, attending community events, exercising, traveling, cooking, and baking.",
-                "Specialties: Family and Preventative Medicine, Aesthetic Medicine",
-                "Perlman Clinic: Hillcrest, Downtown",
-                "Language: English",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/KennethOrtizMD.jpg",
-            "gender": "male",
-            "providerID": "270059"
-        },
-        {
-            "index": 31,
-            "name": "Melissa Macy DO",
-            "bio": [
-                "“Doctor, Friend, Advocate”",
-                "Melissa Macy graduated from the Nova Southeastern College of Osteopathic Medicine in 2011.",
-                "Dr Macy honors the role of the physician as a teacher by getting to know her patients and collaborating to find a treatment plan that both works and fits into your unique lifestyle. She loves to guide, educate and offer practical solutions to help meet your health goals.",
-                "As a doctor of osteopathic medicine, she focuses on you, the whole patient, not just your illness. In her approach you can see she values the mind, body and spirit.",
-                "Dr Macy studied philosophy and journalism before medicine and still enjoys listening to NPR radio, taking long walks with her dog Diego and practicing meditation in her free time.",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Dr.Macy500x500.jpg",
-            "gender": "female",
-            "providerID": "82466"
-        },
-        {
-            "index": 32,
-            "name": "Jennifer Phan FNP-C",
-            "bio": [
-                "Bio coming soon",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/09/JenniferP500x500.jpg",
-            "gender": "female",
-            "providerID": "34455"
-        },
-        {
-            "index": 33,
-            "name": "Christopher Ceriale PA-C",
-            "bio": [
-                "Bio coming soon",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/09/Chris500x500.jpg",
-            "gender": "male",
-            "providerID": "263353"
-        },
-        {
-            "index": 34,
+        "39702": {
             "name": "Madalasa Bista, M.D.",
             "bio": [
                 "“Doctor, Friend, Advocate”",
@@ -482,34 +81,339 @@
             "gender": "female",
             "providerID": "39702"
         },
-        {
-            "index": 35,
-            "name": "Adam Shults PA-C",
+        "40112": {
+            "name": "Lauren Campagna PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Lauren Campagna, PA-C studied human biology as an undergraduate at University at Albany, which is where she developed her love of medicine as a volunteer on the campus ambulance. She received her master’s degree in physician assistant studies from Upstate Medical University in Syracuse, NY. As a practicing provider, she approaches each patient with an open ear and caring demeanor. Lauren strives to promote wellness among her patients through education, communication and empowerment.",
+                "Outside of Perlman Clinic, Lauren is actively involved in multiple medical associations at the national, state and local level. She enjoys attending regular medical seminars and conferences. In her free time, Lauren enjoys horseback riding and hiking. She hopes to one day hike all 46 high peaks in the Adirondack State Park.",
+                "Lauren primarily treats patients at the La Jolla and Downtown San Diego clinic.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/fp_milestone-create-1384638-1.jpg",
+            "gender": "female",
+            "providerID": "40112"
+        },
+        "51404": {
+            "name": "Anna Stern, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Dr. Stern is extremely compassionate and a strong advocate in ensuring patients receive the health care they need. She specializes in providing medical care and preventive services to adults 18 years and older. She recently returned to San Diego from Oregon, where she worked as Medical Director of a Health Insurance Plan, overseeing benefits provided to enrollees including making exceptions when merited as well as designing and implementing programs to improve the health of communities. Having experienced the challenges of medical care as a patient and family member of patients with rare and serious conditions, providing direct patient care for complicated patients, and as a Medical Director for a Health Plan, Dr. Stern has unique insight and skills as a patient advocate in the care she provides.",
+                "Dr. Stern earned her Doctorate of Medicine at University of California, San Diego. She completed her Internship in Internal Medicine at Santa Barbara Cottage Hospital and her Residency in Preventive Medicine at University of California, San Diego. Dr. Stern is Board Certified in Public Health and Preventive Medicine. She also has a Master’s in Public Health from San Diego State University and a Master’s of Business Administration from the Wharton School.",
+                "When not working, Dr. Stern together with her husband and young daughter, enjoy spending quality time with their extended family and enjoying all that San Diego has to offer – the beautiful beaches, arts, sports, and athletic activities.",
+                "Dr. Stern primarily treats patients at the La Jolla location.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/annastern-jessica.jpg",
+            "gender": "female",
+            "providerID": "51404"
+        },
+        "60830": {
+            "name": "William Buchner, M.D.",
+            "bio": [
+                "Dr. William Buchner grew up in Northern Michigan on a large family run dairy farm. He was involved in leadership roles in multiple student organizations and graduated valedictorian of his high-school class.",
+                "He attended Michigan Technological University and studied Biology and Chemistry with an emphasis on education. He was the president of MTU’s Film Board and tutor at the Chemistry Learning Center. While attending college, he volunteered at the community hospital and worked as a pharmacy technician.",
+                "After graduating Summa Cum Lade, he taught high school science at Lakeview High School for 2 years. He gave presentations at in-service meetings about new philosophies in grading and evaluating students.",
+                "Dr. Buchner then attended Wayne State University’s School of Medicine in Detroit, Michigan. WSU is America’s largest single campus medical school. While studying, he participated in an extracurricular program called HuMed which focused on alternative medical practices to heal and comfort patients in ways that are not typically taught in Western Medicine.",
+                "Dr. Buchner was matched to his 1st choice Family Medicine Residency Program at UCSD in 2008. He did additional elective rotations in dermatology and HIV care. After completing residency and attaining Board Certification in Family Medicine, he worked at Sharp Rees-Stealy Medical Group for four years. During this time, he did continuing education in the fields of HIV management, dermatology and hormone replacement to help better serve the patient’s he cared for.",
+                "Dr. Buchner is an active member in the American Academy of Anti-Aging medicine. He offers his patients a comprehensive approach to chronic conditions and preventative care utilizing a full spectrum of vitamins, bio-identical hormones, supplements, and appropriate pharmaceuticals treatments. He utilizes multiple cutting edge laboratory services to evaluate hormones and advanced bio-markers in order to identify sub-optimal levels which help guide his medical recommendations.",
+                "Putting his past experiences together and desire to offer his patients a holistic, comprehensive and personalized approach to care, he teamed up with Perlman Clinic to a new standard in healthcare for patients seeking results and exceptional services.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Dr.-Buchner-Main.jpg",
+            "gender": "male",
+            "providerID": "60830"
+        },
+        "82085": {
+            "name": "Stephen Caso PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Stephen Caso, PA-C joined Perlman Clinic in 2011. He studied Kinesiology at Temple University in Philadelphia and graduated with a Master of Medical Science – Physician Assistant Studies from Salus University in 2010. Stephen enjoys treating patients and will always be your “advocate”. Approachable and easy mannered, Stephen takes the time, and makes the effort, to hear his patients.",
+                "Stephen primarily treats patients at the La Jolla clinic",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider3.jpg",
+            "gender": "male",
+            "providerID": "82085"
+        },
+        "82466": {
+            "name": "Melissa Macy DO",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Melissa Macy graduated from the Nova Southeastern College of Osteopathic Medicine in 2011.",
+                "Dr Macy honors the role of the physician as a teacher by getting to know her patients and collaborating to find a treatment plan that both works and fits into your unique lifestyle. She loves to guide, educate and offer practical solutions to help meet your health goals.",
+                "As a doctor of osteopathic medicine, she focuses on you, the whole patient, not just your illness. In her approach you can see she values the mind, body and spirit.",
+                "Dr Macy studied philosophy and journalism before medicine and still enjoys listening to NPR radio, taking long walks with her dog Diego and practicing meditation in her free time.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Dr.Macy500x500.jpg",
+            "gender": "female",
+            "providerID": "82466"
+        },
+        "84615": {
+            "name": "Emily Ence PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Emily Ence, PA-C trained at Baylor College of Medicine in Houston, Texas where she graduated at the top of her class in 2011. She worked in women’s health in Houston prior to moving to San Diego. She likes to focus on prevention and lifestyle changes. When not seeing patients she enjoys attempting to surf and taking her baby to the San Diego zoo. Emily shares her love for medicine and patient care with her husband, who is an emergency room physician. Emily is outgoing and welcoming and patients enjoy spending time with her. She is a highly valued member of the Perlman Clinic team.",
+                "Emily treats patients at the Hillcrest clinic.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider4.jpg",
+            "gender": "female",
+            "providerID": "84615"
+        },
+        "84690": {
+            "name": "Alonso Chan PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Alonso Chan is a Certified Physician Assistant with extensive experience in Family Medicine and Physical Therapy. He is a graduate of the Riverside County College Physician Assistant program. His background includes Emergency Medicine, Pediatrics, Internal Medicine, Women’s Health, Orthopedics, Mental Health, and Family Practice. He is a member of the California Academy of Physician Assistants (CAPA) and the American Academy of Physician Assistants (AAPA). Alonso sees patients of all ages.",
+                "Alonso loves learning about world history, politics, and documentaries. He used to have his own band where he was the singer-songwriter for some 10 plus years, so he loves making music, playing the guitar, and attending art and music related events. He loves the outdoors, traveling, exploring, and riding around on his motorcycle.",
+                "Languages: English, Spanish.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/AlonsoChan.jpg",
+            "gender": "male",
+            "providerID": "84690"
+        },
+        "97632": {
+            "name": "Jessica Sarder PA-C",
+            "bio": [
+                "Bio Coming Soon",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/JessicaSarderPhoto.jpg",
+            "gender": "female",
+            "providerID": "97632"
+        },
+        "98016": {
+            "name": "Christyanne Maxson, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Dr. Maxson is deeply committed to full service care. She specializes in adolescent care,women’s health and young families. She is very happy to join Perlman Clinic which affords her the time necessary to provide true quality care for the entire family – Preventative, Integrative Medicine, and healthy lifestyles. When you meet Dr. Maxson you will be impressed by her ease of conversation, caring, and ability to get to the root of the problem.",
+                "Dr. Maxson hails from British Columbia Canada. She graduated with her Bachelor of Science and her Doctorate of Medicine Degrees from The University of British Columbia. She interned at a small hospital in Regina Saskatchewan where there were no residents and she had the primary responsibility for patients that one would normally get as a senior resident. She went on to practice across Canada as a Locum Tenens (even for a time as a Cruise Ship Doctor), then settled down in Vancouver in Private Practice and Public Health where she worked for 10 years. She loved delivering babies, caring for the entire family, and seeing them grow up and thrive.",
+                "In her spare time, she loves Gardening, anything to do with horses, Skiing and Scuba Diving.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/ChristyanneMaxsonPhoto.jpg",
+            "gender": "female",
+            "providerID": "98016"
+        },
+        "98164": {
+            "name": "Nicholas Kahl FNP-C",
+            "bio": [
+                "Bio Coming Soon",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/NicholasKahl500x500.jpg",
+            "gender": "male",
+            "providerID": "98164"
+        },
+        "257284": {
+            "name": "Susan Taylor, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Dr. Taylor grew up in San Diego, and attended UCSD receiving a Bachelor’s degree in Chemistry. She was awarded her Doctor of Medicine degree from UC Irvine School of Medicine. She completed a 3-year residency program in Family Medicine at San Pedro Peninsula Hospital and is Board Certified in Family Medicine.",
+                "She spent 7 years in Diamond Bar in private practice and had 2 sons. She then moved with her family to a small city in Tennessee, Oak Ridge. There she practiced in both a community clinic setting and in private practice for 23 years, providing care in an underserved area.",
+                "Dr. Taylor is a diplomate of the American Academy of Family Medicine, and a member of the American Medical Women’s Association.",
+                "She is very happy to have returned to her home town of San Diego to be closer to her family, including her now grown sons. Perlman Clinic is a perfect fit, allowing her to provide a medical home to patients who are looking for compassionate and comprehensive care. “Everyone needs a ‘medical home’ where they can discuss any health concerns, and have a partner in staying healthy and navigating the complex world of modern medicine.”",
+                "Dr. Taylor enjoys music, nature, and raising her dachshund.",
+                "Years in practice: 30",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Susan-Taylor-MD-Main-Jessica.jpg",
+            "gender": "female",
+            "providerID": "257284"
+        },
+        "257289": {
+            "name": "Stephanie Klein PA-C",
+            "bio": [
+                "Stephanie Klein, PA-C studied communication as an undergraduate at UC Santa Barbara and discovered her passion for medicine and healthcare while working in a mental health practice. She earned a dual Masters in Physician Assistant Studies and Public Health at Touro University of California. Stephanie says she is excited to be a part of Perlman Clinic because she appreciates the focus on personalized care and spending time with patients that is integral to the Perlman Clinic culture. Stephanie is committed to providing the best care possible.",
+                "Stephanie grew up in Wisconsin and visits her family there often. She loves living in California because of the gorgeous year-round weather. When away from work, Stephanie likes to spend time outdoors and enjoys exercising, hiking with her dogs or going to the beach.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/StephanieKleinPHOTO-1.jpg",
+            "gender": "female",
+            "providerID": "257289"
+        },
+        "262694": {
+            "name": "Gourab Das PA-C",
             "bio": [
                 "Bio coming soon",
                 "© Copyright 2020, Perlman Clinic, All Rights Reserved."
             ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/10/Adam500x500.jpg",
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/GourabDas500x500.jpg",
             "gender": "male",
-            "providerID": "278020"
+            "providerID": "262694"
         },
-        {
-            "index": 36,
-            "name": "Natalia Kovaleski PA-C",
+        "263353": {
+            "name": "Christopher Ceriale PA-C",
             "bio": [
-                "“PA, Friend, Advocate”",
-                "Natalie Kovaleski, PA-C, received a Bachelor of Science in Biology from Loyola Marymount University. She then completed a Master of Physician Assistant Practice (MPAP) degree from Keck School of Medicine of USC in 2013. Prior to joining Perlman Clinic, she worked in an Internal Medicine practice, with a focus in preventive medicine, in Los Angeles for six years. She is thrilled to be part of the Perlman Clinic team and strongly believes in the care and wellness it provides its patients. As a provider, she strives to encourage physical and emotional health through communication and education.",
-                "Natalie is committed to staying current with medical knowledge by attending conferences and seminars, as well as, participating in medical workshops to further her procedural techniques.",
-                "Natalie grew up in San Diego and is happy to be back in her hometown. When not at Perlman Clinic, she enjoys spending time with her husband and two children, traveling, and being outdoors.",
-                "Natalie is fluent in Spanish.",
+                "Bio coming soon",
                 "© Copyright 2020, Perlman Clinic, All Rights Reserved."
             ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/11/Natalia500x500.jpg",
-            "gender": "female",
-            "providerID": "278112"
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/09/Chris500x500.jpg",
+            "gender": "male",
+            "providerID": "263353"
         },
-        {
-            "index": 37,
+        "263890": {
+            "name": "Yuliya Yartseva FNP-C",
+            "bio": [
+                "“FNP, Friend, Advocate”",
+                "Yuliya Yartseva is a nationally certified Family Nurse Practitioner. She graduated Summa Cum Laude with a Master of Science in Nursing from George Washington University. Yuliya strives to build relationships with her patients through active listening and patient education. With a focus on preventive care and patient-centered medicine, she encourages patients to lead a healthy lifestyle. Yuliya is fluent in both Russian and English. She is a member of American Association of Nurse Practitioners, California Association of Nurse Practitioners and Sigma Theta Tau International Nursing Honor Society.Originally from Virginia, Yuliya enjoys exploring California with her two French Bulldogs, Lola and Morty.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Yuliya-PA-C-1.jpg",
+            "gender": "female",
+            "providerID": "263890"
+        },
+        "267386": {
+            "name": "Kelsey Brangoccio PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Kelsey Brangoccio graduated from Montana State University in 2015 with a Bachelor’s degree in Health and Human Performance with a focus in Exercise Science. During college she had a variety of experiences working in cardiopulmonary rehab, physical therapy, and working with elderly at an assisted living facility. She then attended Thomas Jefferson University in Philadelphia, PA where she received a Master’s degree in Physician Assistant Studies in 2017. During school she served as President of her PA program where she helped lead volunteer opportunities such as serving at a local soup kitchen.",
+                "After school she worked at a family medicine clinic in Grants Pass, Oregon. During her time there she also volunteered at the homeless shelter on the weekend to provide medical care to underserved men, women, and children. She then moved to San Diego where she worked at an internal medicine clinic. Kelsey is happy to be a part of Perlman Clinic and can’t wait to meet you and help you reach your health goals.",
+                "Kelsey focuses on preventive health and using a multimodal approach in reaching patients’ goals. She encourages patients to take control of their health and be involved in the decision making process. She emphasizes lifestyle modifications including a healthy diet, physical activity, smoking cessation, stress reduction, and emotional wellbeing.",
+                "Kelsey enjoys an active life, spending time with family and friends, and traveling. She spends her free time playing soccer, training jiu-jitsu, going to the beach and playing with her dog Stanley.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Kelsey500x500-1024x1024.jpg",
+            "gender": "female",
+            "providerID": "267386"
+        },
+        "267633": {
+            "name": "Julie Hoffman PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Julie Hoffman, PA-C is a board certified Physician Assistant. She received a Bachelor of Science in Exercise Science with a minor in Psychology from Florida State University. She then completed her Physician Assistant Studies at the Medical University of South Carolina where she graduated with honors in 2015. Prior to joining Perlman Clinic she worked as a Pediatric Physician Assistant in South Carolina for two years. She has a passion for preventative medicine, lifestyle changes, and patient education. She is currently a member of the American Academy of Physician Assistants, the San Diego Society of Physician Assistants, and the American Telemedicine Association.",
+                "Julie has participated in multiple medical mission trips and enjoys traveling as much as possible. She spends her free time hiking, exercising, and enjoys spending time outdoors.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/JulieHoffmanPhoto.jpg",
+            "gender": "female",
+            "providerID": "267633"
+        },
+        "269350": {
+            "name": "Brenna Memole AGNP-C",
+            "bio": [
+                "“AGNP, Friend, Advocate”",
+                "Brenna Memole has held a keen interest in health and medicine since early high school. She pursued a Bachelor’s degree in Nutritional Physiology and Metabolism at UC Berkeley and went on to work as a Nutritional Specialist on a college campus, as well as a Nutritional Instructor in a women’s rehabilitation home. Thereafter she studied at Columbia University and received a Master’s in Nursing – Adult Gerontology, graduating with honors. Brenna is personally dedicated to a very active and healthy lifestyle and enjoys engaging her patients in positive and beneficial changes to best suit their individual health needs. Her personal interests also include vegetarian cooking, running, hiking, and traveling. Brenna has visited over 20 countries and enjoys learning about other cultures and types of medicine.Brenna primarily treats patients out of the La Jolla Clinic.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/BrennaMemole.jpg",
+            "gender": "female",
+            "providerID": "269350"
+        },
+        "270059": {
+            "name": "Kenneth Ortiz, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Dr Kenneth Ortiz grew up on the island of Oahu, Hawaii. He is a board-certified family medicine and aesthetic medicine physician in San Diego, California. Prior to joining Perlman Clinic, Inc., Dr Ortiz worked with Northwest Permanente Group in Portland, Oregon, and at a Native American clinic in East San Diego.",
+                "Dr Ortiz earned his BS in Food Science and Human Nutrition from the University of Hawaii at Manoa. Before becoming a physician, he worked as an instructor/program coordinator with the State of Hawaii Dept of Education, and a child nutritionist for the Office of Hawaii Child Nutrition Programs and the US Army in Hawaii. Following his graduation from the University of Hawaii John A. Burns School of Medicine, he completed his internship and residency with the University of Hawaii Family Medicine Residency Program, and then went on to complete his board certification in aesthetic medicine from the American Board of Aesthetic Medicine in San Diego.",
+                "Dr. Ortiz specializes in primary and urgent care, annual physical exams, men’s and women’s health, PrEP, Nexplanon® and IUD placement and removal, and a variety of in-office joint injections. He also provides Botox®, derm fillers, chemical peels, and laser rejuvenation and resurfacing.",
+                "Out of the office, Dr. Ortiz enjoys spending time with family and friends, exploring the unique communities of San Diego, attending community events, exercising, traveling, cooking, and baking.",
+                "Specialties: Family and Preventative Medicine, Aesthetic Medicine",
+                "Perlman Clinic: Hillcrest, Downtown",
+                "Language: English",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/KennethOrtizMD.jpg",
+            "gender": "male",
+            "providerID": "270059"
+        },
+        "270075": {
+            "name": "Carly Babis PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Carly Babis, PA-C graduated from the University of Arizona with a Bachelor of Science in Psychology; She then went on to receive her Masters degree in Physician Assistant Studies at Arcadia University in Philadelphia, PA. Carly values trusting, long lasting relationships with her patients and playing an active role in their overall health and well being. Originally from Tucson, Arizona, Carly loves spending her free time by the ocean and exploring new parts of San Diego.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/CarlyBabisMain.jpg",
+            "gender": "female",
+            "providerID": "270075"
+        },
+        "270097": {
+            "name": "Kelly Snowden PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Kelly Snowden, PA-C studied Human Health Sciences as an undergraduate at the University at Kentucky. During her undergraduate years, she developed a passion for medicine while working as an Emergency Room technician in a Level One Trauma Center and participating in medical mission trips around the globe. She then completed her Physician Assistant Studies at Jefferson University in Philadelphia where she graduated with honors in 2018. Kelly has a passion for preventative medicine and she strives to promote wellness among her patients through education and open communication.Kelly has a very active lifestyle and enjoys traveling as much as possible. She spends her free time exercising, hiking, and spending time at the beach. Her future goals are to continue participating in medical missions as a board certified Physician Assistant.",
+                "Kelly primarily treats patients at the Downtown La Jolla Clinic.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/KellySnowden.jpg",
+            "gender": "female",
+            "providerID": "270097"
+        },
+        "270103": {
+            "name": "Emilia Parrott DO",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Dr. Emilia Parrott, D.O., received her Doctor of Osteopathic Medicine from the Western University of Health Sciences in Pomona, California. She went on to complete her residency in family medicine in Tacoma, Washington where she was honored as the Chief Resident. Dr. Parrott understands that communication and interpersonal skills are critical for promoting successful physician-patient relationships. Through active listening and promoting patient-centered communication she is able to strives to provide the best possible care for patients. She takes a special interest in urgent care, women’s health, obstetrics, pediatrics, dermatological conditions, outpatient procedures, transgender medicine, HIV primary care and community health medicine. ",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/DrParrott.jpg",
+            "gender": "female",
+            "providerID": "270103"
+        },
+        "270607": {
+            "name": "Erinn Case FNP-C",
+            "bio": [
+                "Bio Coming Soon",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/ErinnCase500x500.jpg",
+            "gender": "female",
+            "providerID": "270607"
+        },
+        "271056": {
+            "name": "Brooke Myrberg PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Brooke Myrberg PA-C is a California-licensed and nationally board certified Physician Assistant. Brooke was raised in Emmaus, Pennsylvania. She completed her Bachelors in Science with a major in biology and minor in chemistry at Florida Southern College, where she graduated summa cum laude. During her undergraduate career she volunteered at a Medical clinic for the uninsured and served as president of the Biological National Honor Society, along with maintaining and earning membership into multiple other medical and honor societies. After graduating she went on to further her medical experience by volunteering in Lehigh Valley Hospital’s PACU and at an assisted living facility, as well as working on a medical surgical unit. She then earned her Master of Medical Science graduate degree and completed the Physician Assistant program at Nova Southeastern University in Fort Lauderdale, Florida, during which time she also went on a medical mission trip to Peru. With the desire to experience the east coast lifestyle she moved to California, where she briefly worked in family medicine locum tenens positions while residing in LA, before re-locating to San Diego to join the Perlman Clinic team!",
+                "With a drive for preventative medicine and patient education, she enjoys connecting with patients on a level that allows them to feel comfortable and motivated to take part in their own health and medical decisions.",
+                "In her free time Brooke enjoys an active lifestyle including jogging, hot yoga, HIIT, and weight lifting. She also greatly enjoys being outdoors, hiking, hanging out at the beach, traveling, and exploring all that San Diego has to offer!",
+                "Locations: Hillcrest and Kensington",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/BrookeMyrberg500x500.jpg",
+            "gender": "female",
+            "providerID": "271056"
+        },
+        "272234": {
+            "name": "Rhodaline Tootell, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Dr. Tootell joined the Perlman Clinic in 2019 after moving to California from northern Virginia. She graduated from the University of Virginia, then completed her Masters Degree in Physiology as well as her Medical Degree at the Medical College of Virginia (now the VCU School of Medicine) in 2004. She then completed her Family Medicine Residency at Christiana Care Hospital in Wilmington, Delaware. In 2007, she moved back to northern Virginia and joined a private practice in Loudoun County where she maintained a busy family practice for 11 years, often caring for entire extended families in the community. She enjoyed writing medical articles for the local newspaper during this time, and served as the Physician Practice Leader after her practice joined a large, multi-specialty group in 2014. By practicing for over 10 years in the community where she lived, she learned the value of forming strong relationships with her patients to best effect changes in their health. She has particular interests in preventive medicine, chronic medical care management, pediatrics and women’s health but enjoys all aspects of general medicine. As a new addition to the Perlman Clinic, she embraces the practice mission of spending time listening and understanding each patient’s concerns with the goal of achieving and advocating for their best health.",
+                "Dr. Tootell, her husband and four children fell in love with San Diego on a spring break trip in March 2018 and a few months later, made the leap to move to here. They are enjoying getting to know their new community and surroundings – particularly the beaches, parks, coffee shops and restaurants! Dr. Tootell enjoys the outdoors, running, cycling, cooking and spending time with her family, especially at the beach and at their various sports activities.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/RhodalineTootell500x500MAIN.jpg",
+            "gender": "female",
+            "providerID": "272234"
+        },
+        "272253": {
+            "name": "Philippa Rai PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Philippa “Pippa” Rai, PA-C, is a board certified Physician Assistant. She received a Bachelor of Arts in Human Development at the University of California, San Diego. She then attended Southern California University of Health Sciences’ Physician Assistant program, where she was the Public Relations Representative of her class. Pippa completed her Master’s degree in Physician Assistant Studies and graduated with honors in 2018. She has a passion for women’s health, preventative medicine, and mental health. Pippa also has a special interest in in-office based procedures.",
+                "Pippa is currently a member of San Diego Society of Physician Assistants. In her free time she enjoys hiking, acrylic painting, and traveling as much as possible.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/Pippa500by500-1024x1024.jpg",
+            "gender": "female",
+            "providerID": "272253"
+        },
+        "273037": {
+            "name": "Puneet Bhalrhu, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Dr. Bhalrhu grew up in Northridge, California.  She is board certified in Family Medicine.  She went to medical school in Poland where she attended the Medical University of Lublin.  While she was in medical school, she was fortunate to take a few days here and there traveling as much of Europe as she possibly could.  After graduating medical school, she did her residency in Family Medicine at Central Michigan University.  After completion of residency, she worked as a hospitalist in a teaching hospital in Michigan, Covenant Healthcare.  As attending physician, her responsibilities included teaching medical students and residents.  Returning to California had always been in her plan, specifically living in San Diego.  She enjoys working with primary care and urgent care patients in the Hillcrest and downtown locations.  In her spare time, she enjoys golfing, watching football, cooking and wine tasting. ",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PuneetBhalrhu-1024x1024.jpg",
+            "gender": "female",
+            "providerID": "273037"
+        },
+        "277986": {
             "name": "Youstina Soliman, M.D.",
             "bio": [
                 "“Doctor, Friend, Advocate”",
@@ -523,19 +427,31 @@
             "gender": "female",
             "providerID": "277986"
         },
-        {
-            "index": 38,
-            "name": "Nicholas Kahl FNP-C",
+        "278020": {
+            "name": "Adam Shults PA-C",
             "bio": [
-                "Bio Coming Soon",
+                "Bio coming soon",
                 "© Copyright 2020, Perlman Clinic, All Rights Reserved."
             ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/NicholasKahl500x500.jpg",
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/10/Adam500x500.jpg",
             "gender": "male",
-            "providerID": "98164"
+            "providerID": "278020"
         },
-        {
-            "index": 39,
+        "278112": {
+            "name": "Natalia Kovaleski PA-C",
+            "bio": [
+                "“PA, Friend, Advocate”",
+                "Natalie Kovaleski, PA-C, received a Bachelor of Science in Biology from Loyola Marymount University. She then completed a Master of Physician Assistant Practice (MPAP) degree from Keck School of Medicine of USC in 2013. Prior to joining Perlman Clinic, she worked in an Internal Medicine practice, with a focus in preventive medicine, in Los Angeles for six years. She is thrilled to be part of the Perlman Clinic team and strongly believes in the care and wellness it provides its patients. As a provider, she strives to encourage physical and emotional health through communication and education.",
+                "Natalie is committed to staying current with medical knowledge by attending conferences and seminars, as well as, participating in medical workshops to further her procedural techniques.",
+                "Natalie grew up in San Diego and is happy to be back in her hometown. When not at Perlman Clinic, she enjoys spending time with her husband and two children, traveling, and being outdoors.",
+                "Natalie is fluent in Spanish.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/11/Natalia500x500.jpg",
+            "gender": "female",
+            "providerID": "278112"
+        },
+        "278907": {
             "name": "Alexandra Chatfield PA-C",
             "bio": [
                 "“PA, Friend, Advocate”",
@@ -546,30 +462,7 @@
             "gender": "female",
             "providerID": "278907"
         },
-        {
-            "index": 40,
-            "name": "Robert Brunst, M.D.",
-            "bio": [
-                "Bio Coming Soon",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/RobertBrunst500x500.jpg",
-            "gender": "male",
-            "providerID": "08670"
-        },
-        {
-            "index": 41,
-            "name": "Gourab Das PA-C",
-            "bio": [
-                "Bio coming soon",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/GourabDas500x500.jpg",
-            "gender": "male",
-            "providerID": "262694"
-        },
-        {
-            "index": 42,
+        "279810": {
             "name": "Paul Marquis, M.D.",
             "bio": [
                 "Bio coming soon",
@@ -579,8 +472,7 @@
             "gender": "male",
             "providerID": "279810"
         },
-        {
-            "index": 43,
+        "279880": {
             "name": "Mirza Raheem, M.D.",
             "bio": [
                 "Bio coming soon",
@@ -590,8 +482,7 @@
             "gender": "male",
             "providerID": "279880"
         },
-        {
-            "index": 44,
+        "280127": {
             "name": "Nicole Michael FNP-C",
             "bio": [
                 "“FNP, Friend Advocate”",
@@ -602,8 +493,7 @@
             "gender": "female",
             "providerID": "280127"
         },
-        {
-            "index": 45,
+        "282508": {
             "name": "Kristen Mott PA-C",
             "bio": [
                 "“PA, Friend, Advocate”",
@@ -614,8 +504,7 @@
             "gender": "female",
             "providerID": "282508"
         },
-        {
-            "index": 46,
+        "283382": {
             "name": "Natalie Waters PA-C",
             "bio": [
                 "Bio Coming Soon",
@@ -625,8 +514,58 @@
             "gender": "female",
             "providerID": "283382"
         },
-        {
-            "index": 47,
+        "08899": {
+            "name": "Monica Perlman, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Those are the terms that define Monica Perlman, M.D. In fact, that is why she formed Perlman Clinic in 2005. Dr. Perlman wanted to have the time necessary to care for her patients and to advocate for them with other medical providers. She is also deeply committed to preventive care and healthy lifestyles. And, remarkably, she practices what she preaches. When you meet Dr. Perlman, you will immediately be impressed by her energy and caring demeanor.",
+                "Dr. Perlman was born in Mexico City, Mexico and moved to the United States at the age of 16. She is fluent in Spanish and provides care for numerous patients who come from Mexico to visit her. Dr. Perlman attended Medical School at the University of California, Irvine. She completed her Internship at Scripps Clinic and Research Foundation and her Residency at the University of California, San Diego. Dr. Perlman has lifetime Board Certification in Preventive Medicine and Public Health. She also has a Masters Degree in Public Health with an emphasis in Occupational Medicine. During her career at Scripps Clinic, she also served as Director of Primary Care and as the head of Occupational Medicine and Employee Health. Dr. Perlman is a Voluntary Assistant Professor in the Department of Medicine at the University of California, San Diego.",
+                "Years In Practice: 24 Years",
+                "Specialties: Internal Medicine and Preventive Medicine",
+                "She cares for patients at the Perlman Clinic locations in Downtown La Jolla, Carlsbad, Downtown San Diego, Chula Vista, La Jolla, Clairemont, Kensington & Hillcrest.",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider9.jpg",
+            "gender": "female",
+            "providerID": "08899"
+        },
+        "06405": {
+            "name": "Edward Brantz, M.D.",
+            "bio": [
+                "“Doctor, Friend, Advocate”",
+                "Edward Brantz, M.D. has been called “old fashioned” because he takes his time listening and treats the whole patient. Dr. Brantz is a practitioner with caring values and a sincere approach to helping the patient achieve optimal health. His specialty is Family Medicine. Patients benefit from his many years of experience, expertise and knowledge from assisting in surgeries. Knowing his patients helps Dr. Brantz be their health care “advocate”. When you meet Dr. Brantz, you’ll quickly learn why he is every patient’s friend.",
+                "With a life long passion for medicine, Dr. Brantz enjoys keeping up with medical innovations and literature and regularly attends continuing medical education seminars, classes, conferences and forums. As a native San Diegan, Dr. Brantz spends his free time bicycling, reading and attending family gatherings.",
+                "Dr. Brantz is a perfect fit with Perlman Clinic. As a valued new addition to our team, Edward Brantz, M.D. has a record of patient care that is the model for all Perlman Clinic health care providers.",
+                "Medical School: Autonomous University of Guadalajara (Mexico)Internship: Hahnemann UniversityFamily Practice Residency: Hahnemann University",
+                "Years in Practice: Over 30 years",
+                "Dr. Brantz primarily treats patients at the Clairemont primary and urgent care clinic",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/PC_provider2.jpg",
+            "gender": "male",
+            "providerID": "06405"
+        },
+        "05073": {
+            "name": "Seymour Myers, M.D.",
+            "bio": [
+                "Dr. Seymour Myers, M.D.,completed medical school at The University of Toronto in Ontario, Canada in 1966. Since then in addition to serving as a primary care physician in his own practice for over 30 years, he has participated in multiple clinical studies and has been an active member of UC San Diego’s Academic Enrichment Health Professions Mentor Program since 1994. Dr. Myers specializes in family medicine and takes a special interest in end of life planning and hospice care. Patients and families come first to Dr. Myers. He believes it is his job to provide excellent care to his patients to make their lives more comfortable. With over 50 years experience, his easygoing manner puts patients’ and family members at ease. In his free time, Dr. Myers can be found enjoying everything that the North County has to offer with his wife and their dog. ",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/06/dr-3-perlman-clinic.jpg",
+            "gender": "male",
+            "providerID": "05073"
+        },
+        "08670": {
+            "name": "Robert Brunst, M.D.",
+            "bio": [
+                "Bio Coming Soon",
+                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
+            ],
+            "image": "https://perlmanclinic.com/wp-content/uploads/2019/12/RobertBrunst500x500.jpg",
+            "gender": "male",
+            "providerID": "08670"
+        },
+        "01975": {
             "name": "William Pitt, M.D.",
             "bio": [
                 "Bio coming soon",
@@ -635,15 +574,6 @@
             "image": "https://perlmanclinic.com/wp-content/uploads/2020/04/Pitt500x500.jpg",
             "gender": "male",
             "providerID": "01975"
-        },
-        {
-            "index": 48,
-            "name": "Daisy Damasco-Gutierrez, M.D.",
-            "bio": [
-                "Bio Coming Soon",
-                "© Copyright 2020, Perlman Clinic, All Rights Reserved."
-            ],
-            "image": "https://perlmanclinic.com/wp-content/uploads/2020/05/Dr.Gutierrez500x500.jpeg"
         }
-    ]
+    }
 }

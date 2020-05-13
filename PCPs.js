@@ -1885,6 +1885,45 @@ const PrimaryCareProviders = [
         inNetwork: true,
         myChartID: '263890',
         locations: [locationTypes.CLAIREMONT.id]
+    },    
+    {   
+        firstName:'Daisy',
+        lastName: 'Domasco-Gutierrez',
+        DEA: 'BD6135366',
+        license: 'A066993',
+        NPI:'1700841582',
+        gender: 'female',
+        ageLimitPrimary: 10,
+        ageLimitUrgentCare: 10,
+        language: {},
+        specialInterests: ['Integrative Medicine'],
+        specialty: {
+            familyMedicine: true,
+            preventativeMedicine: '',
+            internalMedicine: '',
+            integrativeMedicine: true,
+            aestheticMedicine: '',
+            geriatricMedicine: '',
+            emergencyMedicine: '',
+            womensHealth: true,
+        },
+        care: {
+            medicationRefills: 'Hard copy prescriptions only',
+            newPTAnnuals: true,
+            joint: 'any',
+            suturePlacement: true,
+            sutureRemoval: true,
+            IUDPlacement: false,
+            IUDRemoval: false,
+            nexplanonPlacement: false,
+            nexplanonRemoval: false,
+        },
+        img: 'https://perlmanclinic.com/wp-content/uploads/2020/05/Dr.Gutierrez500x500.jpeg',
+        title: 'MD',
+        src: 'https://perlmanclinic.com/ourteam/daisy-damasco-gutierrez-m-d/',
+        inNetwork: true,
+        myChartID: '15731',
+        locations: []
     }
 
 ];
