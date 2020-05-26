@@ -33,7 +33,6 @@ async function asyncFunction() {
                 }).get();
                 bio.pop();
 
-
                 let gender, providerID;
                 for (let i = 0; i < PCPs.length; i++) {
                     if (PCPs[i].src === url.url) {
