@@ -44,6 +44,8 @@ async function asyncFunction() {
                     if (PCPs[i].src === url.url) {
                         gender = PCPs[i].gender;
                         providerID = PCPs[i].myChartID;
+                        firstName = PCPs[i].firstName;
+                        lastName = PCPs[i].lastName;
                     }
                 }
 

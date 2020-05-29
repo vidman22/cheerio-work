@@ -28,16 +28,25 @@ async function asyncFunction() {
 
                 const name = $('h3', '.elementor-widget-heading').text();
 
-                const bio = $('p', '.elementor-widget-container').map((i, el) => {
+                let bio = $('p', '.elementor-widget-container').map((i, el) => {
                     return $(el).text();
                 }).get();
-                bio.pop();
+                bio = bio.filter(line => {
+                    if ( (line.indexOf("Copyright") !== -1 ) || (line.indexOf('Employee Login') !== -1) ) {
+                        console.log(line.indexOf("Copyright") !== -1 )
+                        return false;
+                    } else {
+                        return true;
+                    }
+                });
 
-                let gender, providerID;
+                let gender, providerID, lastName, firstName;
                 for (let i = 0; i < PCPs.length; i++) {
                     if (PCPs[i].src === url.url) {
                         gender = PCPs[i].gender;
                         providerID = PCPs[i].myChartID;
+                        firstName = PCPs[i].firstName;
+                        lastName = PCPs[i].lastName;
                     }
                 }
 
@@ -50,7 +59,9 @@ async function asyncFunction() {
                     bio,
                     image,
                     gender,
-                    providerID
+                    providerID,
+                    lastName,
+                    firstName,
                 };
                 if (provider.providerID) {
                     console.log("provider ID", provider.name, index, provider.providerID);
@@ -72,7 +83,10 @@ async function asyncFunction() {
                         bio: resolver[i]['bio'],
                         image: resolver[i]['image'],
                         gender: resolver[i]['gender'],
-                        providerID: resolver[i]['providerID']
+                        providerID: resolver[i]['providerID'],
+                        index: resolver[i]['index'],
+                        firstName: resolver[i]['firstName'],
+                        lastName: resolver[i]['lastName']
                     }
                     // console.log("final Obj", finalObj[resolver[i]['providerID']]['name'])
                 }
