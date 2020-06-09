@@ -1,9 +1,33 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
-const PCPs = require('./PCPs');
+// const PCPs = require('./PCPs');
+const PCPs = require('./newpcps.json');
+const PCPsAndIDs = require('./PCPsAndIDs.json');
 
 const fs = require('fs');
 
+const newArray = [];
+
+// PCPsAndIDs.forEach(pcpid => {
+//     PCPs.forEach(pcp => {
+//         if (pcpid.NPI == pcp.NPI) {
+//             pcp['providerID'] = pcpid.ID;
+//             let newObj = {};
+//             newObj['firstName'] = pcp.firstName;
+//             newObj['lastName'] = pcp.lastName;
+//             newObj['providerID'] = pcpid.ID;
+//             newObj['src'] = pcp.src;
+//             newObj['img'] = pcp.img;
+
+//             newArray.push(newObj);
+//         }
+//     })
+
+// })
+
+// fs.writeFile('newpcps.json', JSON.stringify(newArray), () => {
+//     console.log("completed", newArray.length);
+// })
 
 async function asyncFunction() {
     try {
@@ -23,7 +47,7 @@ async function asyncFunction() {
 
         let finalArray = wrapped.map(async (url) => {
             try {
-                const res = await axios.get(url.url, {timeout: 60000});
+                const res = await axios.get(url.url, { timeout: 60000 });
                 const $ = cheerio.load(res.data);
 
                 const name = $('h3', '.elementor-widget-heading').text();
@@ -32,19 +56,19 @@ async function asyncFunction() {
                     return $(el).text();
                 }).get();
                 bio = bio.filter(line => {
-                    if ( (line.indexOf("Copyright") !== -1 ) || (line.indexOf('Employee Login') !== -1) ) {
-                        console.log(line.indexOf("Copyright") !== -1 )
+                    if ((line.indexOf("Copyright") !== -1) || (line.indexOf('Employee Login') !== -1)) {
+                        console.log(line.indexOf("Copyright") !== -1)
                         return false;
                     } else {
                         return true;
                     }
                 });
 
-                let gender, providerID, lastName, firstName;
+                let providerID, lastName, firstName;
                 for (let i = 0; i < PCPs.length; i++) {
                     if (PCPs[i].src === url.url) {
-                        gender = PCPs[i].gender;
-                        providerID = PCPs[i].myChartID;
+                        // gender = PCPs[i].gender;
+                        providerID = PCPs[i].providerID;
                         firstName = PCPs[i].firstName;
                         lastName = PCPs[i].lastName;
                     }
@@ -58,7 +82,6 @@ async function asyncFunction() {
                     name,
                     bio,
                     image,
-                    gender,
                     providerID,
                     lastName,
                     firstName,
@@ -73,7 +96,7 @@ async function asyncFunction() {
         });
 
         Promise.all(finalArray).then(resolver => {
-            console.log("resolver length", resolver.length);
+            // console.log("resolver length", resolver.length);
             let finalObj = {};
             for (let i = 0; i < resolver.length; i++) {
                 if (resolver[i]) {
@@ -82,13 +105,11 @@ async function asyncFunction() {
                         name: resolver[i]['name'],
                         bio: resolver[i]['bio'],
                         image: resolver[i]['image'],
-                        gender: resolver[i]['gender'],
                         providerID: resolver[i]['providerID'],
                         index: resolver[i]['index'],
                         firstName: resolver[i]['firstName'],
                         lastName: resolver[i]['lastName']
                     }
-                    // console.log("final Obj", finalObj[resolver[i]['providerID']]['name'])
                 }
             }
             const jsonResolved = JSON.stringify({ finalObj });
